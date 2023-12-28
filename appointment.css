@@ -1,0 +1,90 @@
+body {
+  background-color: rgb(255, 255, 255);
+  margin-left: 5%;
+}
+
+.fullmain {
+  display: flex;
+  margin-right: 5%;
+}
+
+.main {
+  display: block;
+  margin-top: 8%;
+  margin-right: 5%;
+}
+
+.appointment {
+  border-radius: 20px;
+}
+
+.doctorappointment {
+  font-size: 200%;
+  margin-bottom: 3%;
+}
+
+i {
+  background-color: white;
+  padding: 30%;
+  border-radius: 20px;
+  margin: 5% 5% 5% 3%;
+}
+
+.doctordetale {
+  height: 37rem;
+  width: 50rem;
+  background-color: rgb(184, 200, 205);
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-top: 2%;
+}
+
+form {
+  display: flex;
+  margin-top: 12%;
+}
+
+.formfell {
+  width: 95%;
+  margin-top: 5%;
+  border-radius: 5px;
+  padding: 2% 0% 2% 0%;
+}
+
+textarea {
+  border-radius: 5px 5px 0px 5px;
+  margin-top: 5%;
+}
+
+.bookappointment {
+  width: 80vh;
+  margin-top: 5%;
+  background-color: rgb(44, 38, 114);
+  padding: 2% 0% 2% 0%;
+  color: white;
+  border-radius: 20px;
+}
+
+.number {
+  background-color: rgb(184, 200, 205);
+  display: flex;
+  gap: 23px;
+  width: 25vw;
+}
+
+.icon {
+  padding: 16px;
+}
+
+.emali {
+  background-color: rgb(184, 200, 205);
+  display: flex;
+  gap: 23px;
+  width: 25vw;
+}
+
+.detal {
+  display: flex;
+  flex-direction: column;
+  line-height: 27px;
+}
